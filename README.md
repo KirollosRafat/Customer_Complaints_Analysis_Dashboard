@@ -12,7 +12,7 @@ The report highlights:
 ---
 
 ## 🗂 File Structure  
-- `333e13d7-0e11-48b6-a109-8f3ac489959f.pbix` → Power BI report file containing the dashboard and DAX measures.  
+- `Customer_Compliants_Tracking_Report.pbix` → Power BI report file containing the dashboard and DAX measures.  
 - `Compliants_Analysis.PNG` → Screenshot preview of the dashboard.  
 
 ---
